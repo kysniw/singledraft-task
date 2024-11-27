@@ -1,3 +1,7 @@
+## My message
+
+I think that tests for deleting is good idea. In my code I wrote some logic in zustand store for deleting proccess includes eliminating deleted positions from fetching data. In my opinion this code would be tested with jest or vitest library.
+
 ## Rules
 
 - add/remove/modify existing code to achieve the end result (some code needs a refactor)
